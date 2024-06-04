@@ -1,6 +1,6 @@
-This is 30 basic projects of verilog, in the extension of this project i will do 30 more advance projects.
-follow me for such projects and topics related to VLSI.
+This includes 30 basic projects in Verilog. In the future, I plan to work on 30 more advanced projects. Follow me for similar projects and topics related to VLSI.
 
-Visit My Linkedin Profile for more...
+
+Visit my LinkedIn profile for more information.
 
 https://www.linkedin.com/in/raj-kaushal-yadav-64188323a/
